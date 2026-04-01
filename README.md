@@ -35,7 +35,7 @@
 ## 📫 Contact Me
 
 * GitHub: https://github.com/abmoudni
-* LinkedIn: (optional)
+* LinkedIn: https://www.linkedin.com/in/amdn
 
 ---
 
