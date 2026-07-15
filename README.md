@@ -1,5 +1,5 @@
 # Hi 👋 I'm Abdessamad Moudnibe
-
+[![abmoudni's 42 stats](https://badge.mediaplus.ma/darkblue/abmoudni)](https://github.com/oakoudad/badge42)
 🎓 Student at **1337 School** (Member of the **42 Network**)
 💻 Passionate about **systems programming and web development**
 
